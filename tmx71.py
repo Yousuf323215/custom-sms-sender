@@ -1,3 +1,9 @@
+import webbrowser
+while True:
+ a = input("[Tools OFF]")
+ print(a)
+ webbrowser.open_new_tab("https://t.me/tmx71bd")
+    
 import os
 import getpass
 import webbrowser
